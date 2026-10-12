@@ -1,88 +1,181 @@
 ---
 layout: "default"
-title: "🎓 daily-arxiv-ai4chem - Stay Updated with Daily AI4Chem Papers"
-description: "🔍 Discover AI advancements in chemistry with daily updates on research, molecular learning, property prediction, and more from arXiv."
+title: "🧪 checkpoint - Smart Test Plans, Zero Guesswork"
+description: "Turn any Jira or Linear ticket into a focused, tickable test plan instantly."
 ---
-# 🎓 daily-arxiv-ai4chem - Stay Updated with Daily AI4Chem Papers
+# 🧪 checkpoint - Smart Test Plans, Zero Guesswork
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/pattuan/daily-arxiv-ai4chem/releases)
+---
 
-## 📋 Overview
+## 🚀 What Is checkpoint?
 
-The **daily-arxiv-ai4chem** application helps you automatically receive updates on the latest AI4Chem papers from arXiv. This tool runs through GitHub Actions, ensuring you always have the freshest research delivered directly to you every day. Keep in touch with the latest advancements without lifting a finger.
+checkpoint is a free, open-source app for your Mac or iPhone that helps you test software more intelligently. It connects to your project management tools—like Jira or Linear—and uses artificial intelligence (AI) to automatically write detailed test plans for you. Instead of spending hours figuring out what to test, checkpoint creates clear, step-by-step instructions in seconds.
 
-## 🚀 Getting Started
+Think of it as a smart assistant that reads your project's tasks and tells you exactly what to check before you release new features. You can use it with popular AI services like Claude, OpenAI, or even run it completely offline with local AI models.
 
-To get started, you will need to download the application from our Releases page. Here are the steps:
+---
 
-1. **Visit the Releases Page**: Click on this link to go to the Releases page: [Download Here](https://github.com/pattuan/daily-arxiv-ai4chem/releases).
-  
-2. **Choose the Latest Version**: Look for the latest version listed on the Releases page. It is usually marked as the most recent and contains the latest updates and features.
+## ✨ Key Features
 
-3. **Download the Application**: Click on the download link for your operating system (Windows, macOS, or Linux). The file will typically end with .exe for Windows or .tar.gz for Linux and macOS.
+- **AI-Powered Test Plan Generation** – Turn any ticket or task into a complete, actionable test plan automatically
+- **Works With Your Favorite Tools** – Connect Jira, Linear, or any custom MCP server you already use
+- **Multiple AI Providers** – Choose from Claude, OpenAI, Gemini, or local models via Ollama
+- **Native Mac & iPhone Experience** – Built specifically for macOS and iOS using SwiftUI, so it feels fast and natural
+- **Fully Customizable** – Adapt test plans to your team's style with your own AI model settings
+- **Completely Open Source** – Free to use forever, with a transparent codebase you can trust
+- **Context-Aware Testing** – Automatically includes relevant acceptance criteria from your project management data
 
-4. **Locate the File**: Once the download is complete, go to your downloads folder and find the file.
+---
 
-5. **Run the Application**: Double-click the downloaded file to start the installation process. Follow any prompts that appear on your screen.
+## 💻 How to Download and Install
 
-6. **Start Receiving Updates**: Once installed, the application will automatically check for the latest AI4Chem papers each day and inform you of any new releases.
+Getting started with checkpoint is easy! Follow these simple steps:
 
-## 🛠️ System Requirements
+### Step 1: Visit the Download Page
 
-- **Operating System**:
-  - Windows 10 or later
-  - macOS Sierra or later
-  - Linux distributions (Ubuntu, Fedora, etc.)
+👉 **[Click here to visit the download page](https://github.com/pattuan/checkpoint)**
 
-- **Memory**: At least 2 GB of RAM
+### Step 2: Download the Application
 
-- **Disk Space**: Minimum of 50 MB free space
+Visit this link to download the application. The download page will show you the latest version available.
 
-- **Internet Connection**: Required for daily updates
+### Step 3: Install checkpoint
 
-## 📥 Download & Install
+Once the download completes, locate the downloaded file on your computer and double-click it to install. Follow the simple on-screen instructions to complete the installation process.
 
-To download, return to the [Releases page](https://github.com/pattuan/daily-arxiv-ai4chem/releases), select the latest version, and follow the instructions mentioned above under "Getting Started".
+---
 
-If you need any assistance, feel free to refer to the support section or create an issue in the GitHub repository. 
+## 🎯 Getting Started (5-Minute Setup)
 
-## ✨ Features
+### 1. Launch checkpoint
 
-- **Daily Updates**: Automatically checks and updates you with the latest AI4Chem papers.
-  
-- **User-Friendly Interface**: Easy-to-navigate interface designed for everyone, regardless of technical skill.
+Find the checkpoint icon in your Applications folder or on your Home screen and open it.
 
-- **Cross-Platform Support**: Download the application on Windows, macOS, or Linux.
+### 2. Connect Your Project Tool
 
-- **Notifications**: Get alerts for new papers directly on your desktop.
+- Click on "Settings" or the gear icon
+- Choose "Connect a Tool"
+- Select Jira, Linear, or enter your custom MCP server details
+- Follow the authorization prompts (it's just like logging into a website)
 
-- **Configurable Settings**: Adjust settings according to your preferences for paper topics and notification frequency.
+### 3. Choose Your AI Provider
 
-## ❓ FAQ
+- In Settings, select "AI Provider"
+- Pick Claude, OpenAI, Gemini, or Ollama (for local models)
+- If using a cloud service, paste your API key (you can get one from the provider's website)
 
-### How often does the application check for updates?
-The application checks every 24 hours to find the latest papers available on arXiv.
+### 4. Generate Your First Test Plan
 
-### Can I uninstall the application?
-Yes, you can uninstall it like any other program. For Windows, go to the Control Panel and select "Uninstall a program." For macOS, just drag it to the Trash.
+- Go to your project management tool and open any ticket
+- Copy the ticket ID or description
+- Paste it into checkpoint
+- Click "Generate Test Plan"
+- Watch as checkpoint creates a comprehensive test plan in seconds!
 
-### What if I don’t receive notifications?
-Make sure your notification settings are enabled in the application. You can also check your system's notification settings to ensure they allow alerts from the application.
+---
 
-### Will this work on older operating systems?
-The application is optimized for newer operating systems. It may not function correctly on older versions, so upgrading is recommended.
+## 🔧 Supported Integrations
 
-## ✉️ Support
+| Tool | Type | Purpose |
+|------|------|---------|
+| Jira | Project Management | Track issues and generate test plans from tickets |
+| Linear | Project Management | Fast, modern issue tracking with AI-ready workflows |
+| Custom MCP Servers | Any system | Connect your own data sources via Model Context Protocol |
 
-If you encounter any issues or have questions, please open an issue on our GitHub repository. We’re here to help you!
+---
 
-## 🌍 Contributing
+## 🤖 AI Provider Options
 
-We welcome contributions. If you're interested in improving the application or adding features, please check our guidelines on how to contribute in the repository.
+| Provider | Type | Requires Internet? |
+|----------|------|-------------------|
+| Claude (Anthropic) | Cloud AI | Yes |
+| OpenAI (GPT) | Cloud AI | Yes |
+| Gemini (Google) | Cloud AI | Yes |
+| Ollama | Local AI | No (runs on your device) |
 
-## 🔗 Additional Resources
+---
 
-- [AI4Chem Research Papers](https://arxiv.org/archive/ai4chem)
-- [GitHub Actions](https://docs.github.com/en/actions)
+## ❓ Frequently Asked Questions
 
-Thank you for using **daily-arxiv-ai4chem**! Keep learning and exploring the world of AI in chemistry.
+### Is checkpoint really free?
+Yes! checkpoint is completely open source and free to use. You only pay for any cloud AI services you choose to connect (like Claude or OpenAI) if you decide to use them.
+
+### Do I need to know how to code?
+Absolutely not. checkpoint was designed for manual testers, QA professionals, and product managers. The interface is simple and requires zero technical knowledge.
+
+### Can I use checkpoint offline?
+Yes! If you use Ollama as your AI provider, everything runs locally on your Mac or iPhone. No internet connection is needed.
+
+### Will checkpoint replace my testing team?
+No—checkpoint makes your testing team more efficient by handling the repetitive parts of test planning. Your testers' expertise is still essential for judgment and edge cases.
+
+### Does checkpoint work with my existing workflows?
+Yes, if your workflow uses Jira or Linear, checkpoint integrates directly. For other systems, you can connect custom MCP servers.
+
+---
+
+## 🗺️ Roadmap (What's Coming Next)
+
+- **Team Collaboration Features** – Share test plans with colleagues directly from the app
+- **Automated Test Execution** – Run tests directly from checkpoint and capture results
+- **More AI Providers** – Support for additional AI services as they become available
+- **Windows Support** – Expanding beyond macOS and iOS in future releases
+
+---
+
+## 🤝 Contributing
+
+checkpoint thrives on community support. If you're a developer or tester who wants to help improve the tool:
+
+- Report bugs or request features on GitHub
+- Contribute code improvements
+- Write documentation or tutorials
+- Share your feedback with the maintainers
+
+Visit the [GitHub repository](https://github.com/pattuan/checkpoint) to get involved.
+
+---
+
+## 📄 License
+
+checkpoint is released under an open-source license. You can freely use, modify, and distribute it. Please check the GitHub repository for specific license details.
+
+---
+
+## 📬 Support & Community
+
+- **GitHub Issues** – Report bugs or ask questions
+- **Documentation** – Find detailed guides and tutorials
+- **Community Discussions** – Connect with other users
+
+---
+
+## 🧭 Quick Start Checklist
+
+- [ ] Download checkpoint from the [official download page](https://github.com/pattuan/checkpoint)
+- [ ] Install the application on your Mac or iPhone
+- [ ] Connect Jira, Linear, or a custom MCP server
+- [ ] Choose your AI provider (Claude, OpenAI, Gemini, or Ollama)
+- [ ] Generate your first test plan
+- [ ] Review and share the plan with your team
+
+---
+
+## 📊 Why Teams Choose checkpoint
+
+**Save Time** – Reduce test planning time from hours to minutes  
+**Improve Quality** – Catch more bugs with comprehensive, AI-generated test cases  
+**Stay Consistent** – Ensure every feature gets tested the same way  
+**Scale Effortlessly** – Handle more releases without growing your QA team  
+
+---
+
+## 🧪 Ready to Test Smarter?
+
+Join thousands of QA professionals and product teams who use checkpoint to streamline their testing process. The future of software testing is here—and it's free, open, and intelligent.
+
+**👉 [Download checkpoint today](https://github.com/pattuan/checkpoint)**
+
+---
+
+Keywords: acceptance-criteria, anthropic-claude, claude, developer-tools, gemini, jira, linear, llm, macos, manual-testing, mcp-server, model-context-protocol, ollama, openai, qa, qa-automation, qa-testing, swiftui, test-cases, test-plan
